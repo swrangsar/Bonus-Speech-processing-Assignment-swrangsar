@@ -1,0 +1,34 @@
+clear all; close all;
+
+note1 = noteWithVowelA(220, 100);
+note2 = noteWithVowelA(220, 100);
+noteWithVowelA(247, 100);
+noteWithVowelA(247, 100);
+
+noteWithVowelA(220, 150);
+noteWithVowelA(196, 50);
+noteWithVowelA(185, 200);
+
+noteWithVowelA(220, 100);
+noteWithVowelA(220, 100);
+noteWithVowelA(247, 100);
+noteWithVowelA(247, 100);
+
+noteWithVowelA(220, 150);
+noteWithVowelA(196, 50);
+noteWithVowelA(185, 200);
+
+
+noteWithVowelA(220, 100);
+noteWithVowelA(220, 100);
+noteWithVowelA(247, 100);
+noteWithVowelA(277, 100);
+
+noteWithVowelA(294, 350);
+noteWithVowelA(330, 50);
+
+noteWithVowelA(262, 200);
+noteWithVowelA(247, 200);
+
+noteWithVowelA(220, 400);
+sound(note, Fs);
